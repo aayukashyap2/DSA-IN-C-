@@ -13,6 +13,11 @@ int main(){
 
     int y = 10;
     cout<< ++y << endl;
-    cout<< y;
+    cout<< y << endl;
+    y--;     //y = y - 1
+    cout<< y << endl;
+    --y;    //y = y - 1
+    cout<< y ;
+
 
 }
