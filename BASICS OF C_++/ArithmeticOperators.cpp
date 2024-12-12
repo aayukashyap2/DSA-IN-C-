@@ -14,10 +14,10 @@ int main(){
     int y = 10;
     cout<< ++y << endl;
     cout<< y << endl;
-    y--;     //y = y - 1
+    y--;     //y = y - 1 post decrement
     cout<< y << endl;
-    --y;    //y = y - 1
+    --y;    //y = y - 1 pre decrement
     cout<< y ;
-
-
 }
+/* Here's the code which shows the functions and works
+how increment,decrement and comments works exactly*/
