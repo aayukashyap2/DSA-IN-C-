@@ -11,7 +11,4 @@ int main(){
  x = x - y ;  //Minus integer part from real number 
  cout<<x;
 
-
-
-
 }
