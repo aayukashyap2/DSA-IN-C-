@@ -12,4 +12,8 @@ int main(){
     else{
         cout<<-n;
     }
-}
+
+    /* if (n<0){
+    n = -n;
+    }*/
+ }
