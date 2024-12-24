@@ -41,7 +41,7 @@ int main(){
              cout<<"30";
              break;
         case 12: //dec
-             cout<<"30";
+             cout<<"31";
              break;
         
     }
