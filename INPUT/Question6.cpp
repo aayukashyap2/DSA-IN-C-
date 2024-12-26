@@ -9,7 +9,7 @@ int  main(){
     cin>>r;
     cout<<"Enter the height = ";
     cin>>h;
-    float v = 2*pi*r*h;
+    float v = pi*r*r*h;
     cout<<"Required Volume is = "<<v;
 
 }
