@@ -16,6 +16,9 @@ int main(){
     if(Area>perimeter){
         cout<<"Area is greater";
     }
+    else if(Area==perimeter){
+        cout<<"Both are equal";
+    }
     else{
         cout<<"Perimeter is greater";
     }
