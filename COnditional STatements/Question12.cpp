@@ -22,10 +22,11 @@ int main(){
     }
     else{ //b>a
        if(b>c){
-        cout<<b<<"is greatest";
+        cout<<b<<"is greatest"<<endl;
        }
        else{ //c>b
-         cout<<c<<"is greatest";
+         cout<<c<<" is greatest";
        }
+
     }
 }
