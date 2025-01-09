@@ -7,5 +7,7 @@ int *ptr = &a;
 int b = ++(*ptr);
 cout<< a << ' ' <<b;
 
-// Assume the address of a is 1000
+
 }
+
+// Assume the address of a is 1000
